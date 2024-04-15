@@ -1,0 +1,4 @@
+git remote add origin https://github.com/ujale/weekone.git
+git branch -M main
+git push -u origin mainnode_modules
+node_modules
